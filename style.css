@@ -13,7 +13,7 @@ body {
 .about img {
   width: 100%;
 }
-.about .more-inf {
+.about .more {
   font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@ body {
 .about { text-align: center;
 }
 }
-.todo-list {
+.todo {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -31,7 +31,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.row-wrap {
   display: flex;
 }
 ul {
