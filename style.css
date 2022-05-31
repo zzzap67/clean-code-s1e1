@@ -17,7 +17,7 @@
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .about {
     text-align: center;
@@ -145,7 +145,7 @@
 }
 
 .list__item_edit .txt {
-  display:inline-block;
+  display: inline-block;
   width: 224px;
 }
 
